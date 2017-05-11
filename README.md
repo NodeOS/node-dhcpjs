@@ -2,6 +2,8 @@ dhcpjs provides native DHCP support in Node.js.
 
 ## Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NodeOS/node-dhcpjs.svg)](https://greenkeeper.io/)
+
 Currently, this project just provides simple client and server protocol APIs
 which allow an application to consume DHCP messages broadcast to the network
 as JS objects.
